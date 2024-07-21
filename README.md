@@ -31,7 +31,7 @@ Hello everyone!👋
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&color=c4302b">
 </a>
 </p>
 <p>Descr. 1</p>
@@ -46,10 +46,10 @@ Hello everyone!👋
 <br>
 <p>
 <a href="https://github.com/fftaca" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/-Youtube-red?style=for-the-badge&color=c4302b">
 </a>
 </p>
 </p>Descr. 2</p>
