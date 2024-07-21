@@ -4,7 +4,10 @@
 <img src="https://.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/)
+<br>
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/fftaca)
+<br>
+[![Sigueme en mis redes](https://img.shields.io/badge/Facus_Devs-SUSCRIBETE-blue)](https://github.com/fftaca)
 
 ## About me
 
