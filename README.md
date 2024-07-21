@@ -37,7 +37,6 @@ Hello everyone!👋
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">App 2</h3>
 <div align="center">                                       
 <a href="https://github.com/fftaca" target="_blank"><img src="https://.jpg" width="400" alt="App 2"></a>
