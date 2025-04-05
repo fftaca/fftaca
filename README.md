@@ -13,10 +13,10 @@
 
 Hello everyone!👋
 
-- 🔭 I am currently working on developing applications with C#, .NET core and SQL Server.
-- 🌱 I find myself learning about the advanced features of .NET Core and exploring new technologies.
-- 👯 I could collaborate on open source projects and web applications.
-- 🤔 I am looking for help to optimize performance in .NET applications and best practices in software development.
+- 🔭 Currently a student learning C.
+- 🌱 In my free time, I dedicate myself to learning about .NET features and exploring new technologies like C#, .NET Core, SQL Server, and Python.
+- 👯 I could collaborate on open source projects and basic web applications.
+- 🤔
 <br>
 
 ## Proyects
